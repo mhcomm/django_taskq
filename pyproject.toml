@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "django-taskq"
 version = "0.1.0"
-description = "A Django app a no thrills task queue"
+description = "A no frills Django app for task queue"
 authors = ["MHComm <support@mhcomm.fr>"]
 
 [tool.poetry.dependencies]

@@ -1,2 +1,2 @@
 # django_taskq
-no thrills task queue for planned tasks for django
+no frills task queue for planned tasks for django
